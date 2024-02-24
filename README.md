@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinods.ccbp.tech/](https://vinods.ccbp.tech/)
 
-- 💬 Ask me about **MERN, Python, HTML, CSS**
+- 💬 Ask me about **MERN, Python, HTML, CSS, Javascript**
 
 - 📫 How to reach me **Vinodtgv@gmail.com**
 
