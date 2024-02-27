@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, jquery**
 
-- 👨‍💻 All of my projects are available at [https://vinods.ccbp.tech/](https://vinods.ccbp.tech/)
+- 👨‍💻 All of my projects are available at the following [https://vinods.ccbp.tech/](https://vinods.ccbp.tech/)
 
 - 💬 Ask me about **MERN, Python, HTML, CSS, Javascript**
 
