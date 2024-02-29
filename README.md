@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodnkr&label=Profile%20views&color=0e75b6&style=flat" alt="vinodnkr" /> </p>
 
-- 🌱 I’m currently learning **Typescript, jquery**
+- 🌱 I’m currently learning **Typescript, Flutter**
 
 - 👨‍💻 All of my projects are available at the following [https://vinods.ccbp.tech/](https://vinods.ccbp.tech/)
 
