@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodnkr&label=Profile%20views&color=0e75b6&style=flat" alt="vinodnkr" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Flutter**
+- 🌱 I’m currently learning **Typescript, Go Lang**
 
 - 👨‍💻 All of my projects are available at the following [https://vinods.ccbp.tech/](https://vinods.ccbp.tech/)
 
-- 💬 Ask me about **MERN, Python, HTML, CSS, Javascript**
+- 💬 Ask me about **Flutter, MERN, Python, HTML, CSS, Javascript**
 
 - 📫 How to reach me **Vinodtgv@gmail.com**
 
